@@ -35,11 +35,13 @@ BERT Pretraining은 2단계로 이루어진다. Masked LM은 입력 문장에서
 | 2 | 등장인물 |
 | 3 | 대사    |
 | 4 | 지시/감정|
-| 5 | 감정    |
+| 5 | 장소    |
 | 6 | 시간    |
-| 7 | 시대    |
+| 7 | 시대*   |
 | 0 | 그외    |
-  
+
+*\*사용하지 않았다*  
+
 하지만 IMSDB의 가장 큰 문제점은 사용된 여백이 기준없이 천차만별이라는 것이다.  
 이를 고려해 [preprocess 코드](https://github.com/JWHer/BERT/blob/main/imsdb/preprocess.py)를 짜 csv로 추출하였다.  
 
