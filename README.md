@@ -5,7 +5,7 @@ BERT 논문 리뷰와 IMSDb 문장 분류 학습
 *Google!*  
 
 
-<image src="https://raw.githubusercontent.com/JWHer/BERT/main/paper/intro.png" width="80%>
+<p align="center"><image src="https://raw.githubusercontent.com/JWHer/BERT/main/paper/intro.png" width="80%"></p>
 
 2019년 자연어 처리에서 혜성처럼 등장한 SOTA가 있었으니, Bidirectional Encoder Representations from Transformers 이름하야 BERT이다.  
 
@@ -21,7 +21,7 @@ BERT Pretraining은 2단계로 이루어진다. Masked LM은 입력 문장에서
 
 [IMSDb](https://www.imsdb.com/)에는 다양한 영화 스크립트가 준비되어 있다.  
 
-<image src="https://raw.githubusercontent.com/JWHer/BERT/main/imsdb/joker.png" width="80%>
+<p align="center"><image src="https://raw.githubusercontent.com/JWHer/BERT/main/imsdb/joker.png" width="80%"></p>
 
 *Joker*
 
