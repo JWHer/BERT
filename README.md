@@ -62,6 +62,7 @@ BERT Pretraining은 2단계로 이루어진다. Masked LM은 입력 문장에서
 **소스코드**
 <!-- \> [pytorch를 사용해 학습한 버전](https://github.com/JWHer/BERT/blob/main/imsdb/BERT_torch.py)  -->
 
+> [pytorch를 사용해 학습한 버전](https://github.com/JWHer/BERT/blob/main/imsdb/IMSDB_torch.ipynb)  
 > [Simpletransformers를 사용한 버전](https://github.com/JWHer/BERT/blob/main/imsdb/BERT_simple.ipynb)
 
 ## 3. 결과  
